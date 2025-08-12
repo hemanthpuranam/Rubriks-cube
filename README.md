@@ -25,17 +25,6 @@ The aim is to provide a learning-friendly implementation while ensuring clear lo
 
 ---
 
-## 📂 Project Structure
-
-```
-rubiks_solver/
-│── solver.py        # Main solver logic
-│── cube.py          # Cube representation and operations
-│── algorithms.py    # Beginner method algorithms
-│── README.md        # Project documentation
-```
-
----
 
 ## 🚀 How to Run
 
